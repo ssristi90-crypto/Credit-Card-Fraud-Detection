@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection
+Banks lose millions due to fraudulent transactions, even though fraud is rare and this is Real time Fraud Detection System that helps in detecting it in real time.
